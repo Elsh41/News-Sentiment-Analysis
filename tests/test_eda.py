@@ -4,4 +4,4 @@ def test_sanity():
     assert True
 
 def test_files():
-    assert os.path.esists('README.md')
+    assert os.path.exists('README.md')
