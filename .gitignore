@@ -12,3 +12,4 @@ data/raw/*.csv
 Thumbs.db
 # VS Code
 .vscode/
+data/processed/*.csv
